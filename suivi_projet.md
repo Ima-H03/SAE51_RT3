@@ -2,8 +2,8 @@
 
 * SAE 51 -´
 	”Automatisation de la creation de machines”
-* 
-* Imabith Houngbo & Algor Zoubabela
+* Algor Zoubabela
+* Imabith Houngbo  
 * 16/09/2026
 
 
