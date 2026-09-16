@@ -2,8 +2,8 @@
 
 * SAE 51 -´
 	”Automatisation de la creation de machines”
-* Algor Zoubabela
-* Imabith Houngbo  
+* CHEF DE PROJET : Algor Zoubabela
+* AUTRE MEMBRE EQUIPE : Imabith Houngbo  
 * 16/09/2026
 
 
