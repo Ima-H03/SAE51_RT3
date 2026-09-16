@@ -1,10 +1,10 @@
 # Journal de bord
 
-* SAE 51 -´
-	”Automatisation de la creation de machines”
+* SAE 51 -
+	Automatisation de la creation de machines
 * CHEF DE PROJET : Algor Zoubabela
 * AUTRE MEMBRE EQUIPE : Imabith Houngbo  
-* 16/09/2026
+* DATE DEBUT : 16/09/2026
 
 
 ## Séance n° 1
